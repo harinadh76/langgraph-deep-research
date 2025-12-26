@@ -1,0 +1,26 @@
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                         LEARNING PROGRESSION                                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  VERSION 1: Simple Research                                                 │
+│  ├── ✓ Using Tavily for web search                                         │
+│  ├── ✓ Basic graph with 2 nodes                                            │
+│  └── ✓ Simple search → summarize flow                                      │
+│                                                                              │
+│  VERSION 2: Multi-Query Research                                            │
+│  ├── ✓ Breaking questions into sub-questions                               │
+│  ├── ✓ Looping through multiple queries                                    │
+│  └── ✓ Combining multiple results                                          │
+│                                                                              │
+│  VERSION 3: Full Deep Research                                              │
+│  ├── ✓ Supervisor-Worker pattern                                           │
+│  ├── ✓ Multiple specialized agents                                         │
+│  └── ✓ Dynamic routing based on state                                      │
+│                                                                              │
+│  VERSION 4: Advanced System                                                 │
+│  ├── ✓ Iterative refinement                                                │
+│  ├── ✓ Quality checking                                                    │
+│  ├── ✓ Gap analysis and filling                                            │
+│  └── ✓ Phase-based workflow                                                │
+│                                                                              │
+└─────────────────────────────────────────────────────────────────────────────┘
